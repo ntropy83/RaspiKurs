@@ -25,6 +25,10 @@ Touchscreen über DSI - Schnittstelle an den Raspberry anschließen:
 https://maker-tutorials.com/raspberry-pi-touchscreen-installieren-und-anschliessen-tipps-tricks/
 _______________________________________
 
+Tensorflow zur Objekterkennung auf dem RPi:
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi
+_______________________________________
+
 Codelite (IDE zur Programmierung):
 
 Installation: sudo apt install codelite
