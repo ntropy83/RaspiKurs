@@ -1,4 +1,4 @@
-[b]RPi – Ressourcen[/b]
+<h1>RPi – Ressourcen</h1>
 
 Bücher: Raspberry Pi: Das umfassende Handbuch für Maker und Tekkies. Aktuell zu Raspberry Pi Model 3B+ und Zero WH
 _______________________________________
