@@ -20,6 +20,11 @@ https://www.amazon.de/Waveshare-Stepper-Raspberry-Controller-Microstepping/dp/B0
 Examples/Tutorials: www.waveshare.com/wiki/Stepper_Motor_HAT (benutzt I2C,serial und SPI)
 _______________________________________
 
+Touchscreen über DSI - Schnittstelle an den Raspberry anschließen:
+
+https://maker-tutorials.com/raspberry-pi-touchscreen-installieren-und-anschliessen-tipps-tricks/
+_______________________________________
+
 Codelite (IDE zur Programmierung):
 
 Installation: sudo apt install codelite
