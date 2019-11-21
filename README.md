@@ -31,9 +31,9 @@ _______________________________________
 
 Ein neues Repository auf Github erzeugen:
 
-echo "# RaspiKurs" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/EUERGITHUB_REPO
-git push -u origin master
+echo "# RaspiKurs" >> README.md<br>
+git init<br>
+git add README.md<br>
+git commit -m "first commit"<br>
+git remote add origin https://github.com/EUERGITHUB_REPO<br>
+git push -u origin master<br>
