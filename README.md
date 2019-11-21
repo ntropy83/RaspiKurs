@@ -1,4 +1,4 @@
-RPi – Ressourcen
+[b]RPi – Ressourcen[/b]
 
 Bücher: Raspberry Pi: Das umfassende Handbuch für Maker und Tekkies. Aktuell zu Raspberry Pi Model 3B+ und Zero WH
 _______________________________________
@@ -37,6 +37,11 @@ Gnome Dev (GTK Tutorial):
 https://developer.gnome.org/gtkmm-tutorial/stable/sec-multi-item-containers.html.en#buttonbox-example
 _______________________________________
 
+USB - Funkmaus sehr langsam auf dem RPi:
+
+sudo nano /boot/cmdline.txt
+dort hinzufügen/ändern: usbhid.mousepoll=0
+_______________________________________
 
 Ein neues Repository auf Github erzeugen:
 
