@@ -1,1 +1,1 @@
-./Debug/calcwindow.cpp.o ./Debug/main.cpp.o
+./Debug/main.cpp.o ./Debug/calcwindow.cpp.o
